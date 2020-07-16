@@ -2,6 +2,12 @@
 
 Having spent over 16 years in retail it was time for a change of direction. Having already done some work with HTML (self taught), I used to look after 3 websites. This combined with me being thorough in my work led to a close friend suggesting programming. I started to teach myself C# and then quickly moved to Python to get a better understanding of coding. I found I was really enjoying it and in particular seeing the code working! I knew this would be a good job to do going forwards and that's how I ended up at Makers Academy. Originally I thought my preference would be for frontend but as the course has gone on, I've realised just how much I enjoy doing the logic etc, so now it's backend that I prefer!
 
+<center><h3>Links</h3>
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-%232A6AC7?style=for-the-badge&amp;logo=linkedin)](https://www.linkedin.com/in/catriona-bennett-1089b31ab/)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&amp;logo=twitter&amp;logoColor=white)](https://twitter.com/cmb84scd)
+</center>
+
 ## Skills
 
 #### Organised
