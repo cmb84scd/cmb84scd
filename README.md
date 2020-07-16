@@ -66,7 +66,7 @@ I have used the following tech, some of which I am more familiar with than other
 
 | Repo/Deployed site | Info | Tech |
 | --- | --- | --- |
-| [Cuppa Team](https://github.com/Tracht/charity-apr2020) | Final group project at Makers and is to help with the organisation of tea parties | MERN, Jest, Cypress |
+| [Cuppa Team](https://github.com/cmb84scd/charity-apr2020) | Final group project at Makers and is to help with the organisation of tea parties | MERN, Jest, Cypress |
 | [Acebook-HoneyBunnies](https://acebook-honeybunnies.herokuapp.com/) | Second group project at Makers. A clone of Facebook | Ruby, Rails, Rspec, Capybara, Psql |
 | [Mazee](https://github.com/cmb84scd/Mazee) | A maze game I made before starting at Makers | Python, pygame |
 
