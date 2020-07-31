@@ -60,6 +60,7 @@ I have used the following tech, some of which I am more familiar with than other
       <td>
         <li>Rails</li>
         <li>Sinatra</li>
+        <li>Django</li>
         <li>Node JS</li>
         <li>Express</li>
         <li>jQuery</li>
@@ -72,6 +73,7 @@ I have used the following tech, some of which I am more familiar with than other
       <td>
         <li>Rspec</li>
         <li>Capybara</li>
+        <li>Selenium</li>
         <li>Jasmine</li>
         <li>Ruby</li>
         <li>Jest</li>
