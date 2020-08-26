@@ -17,6 +17,8 @@ Having spent over 16 years in retail it was time for a change of direction. Havi
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%232A6AC7?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/catriona-bennett-1089b31ab/)
 [![Twitter Profile](https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/cmb84scd)
+[![Medium](https://img.shields.io/badge/Medium_blog-%2312100E?style=for-the-badge&amp;logo=medium&amp;logoColor=white)](https://medium.com/@cmb84scd)
+[![Website](https://img.shields.io/badge/-Website-blue?style=for-the-badge)](https://cmb84scd.github.io/)
 
 </div>
 
