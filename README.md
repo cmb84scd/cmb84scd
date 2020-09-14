@@ -75,6 +75,7 @@ I have used the following tech, some of which I am more familiar with than other
       <td>
         <li>Rspec</li>
         <li>Capybara</li>
+        <li>Django.test</li>
         <li>Selenium</li>
         <li>Jasmine</li>
         <li>Ruby</li>
@@ -88,7 +89,7 @@ I have used the following tech, some of which I am more familiar with than other
 
 | Repo/Deployed site | Info | Tech |
 | --- | --- | --- |
-| [Simple Asset Tracker](https://github.com/makersacademy/simpleassettracker) | Post course group project with Makers. An app to help Makers track their laptops etc | Python, Django, django.test, Selenium |
+| [Simple Asset Tracker](https://github.com/makersacademy/simpleassettracker) | Post course group project with Makers. An app to help Makers track their laptops etc | Python, Django, Django.test, Selenium |
 | [Cuppa Team](https://github.com/cmb84scd/charity-apr2020) | Final group project at Makers and is to help with the organisation of tea parties | MERN, Jest, Cypress |
 | [Acebook-HoneyBunnies](https://acebook-honeybunnies.herokuapp.com/) | Second group project at Makers. A clone of Facebook | Ruby, Rails, Rspec, Capybara, Psql |
 | [Mazee](https://github.com/cmb84scd/Mazee) | A maze game I made before starting at Makers | Python, pygame |
