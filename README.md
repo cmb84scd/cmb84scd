@@ -89,6 +89,7 @@ I have used the following tech, some of which I am more familiar with than other
 
 | Repo/Deployed site | Info | Tech |
 | --- | --- | --- |
+| [Shopping Helper - repo](https://github.com/cmb84scd/shopping_helper)<br>[Shopping Helper - deployed](https://shopping-help.herokuapp.com/) | A simple app to help you locate your items when doing your grocery shop. | Ruby, Rails, Rspec, Capybara, Psql |
 | [Simple Asset Tracker](https://github.com/makersacademy/simpleassettracker) | Post course group project with Makers. An app to help Makers track their laptops etc | Python, Django, Django.test, Selenium |
 | [Cuppa Team](https://github.com/cmb84scd/charity-apr2020) | Final group project at Makers and is to help with the organisation of tea parties | MERN, Jest, Cypress |
 | [Acebook-HoneyBunnies](https://acebook-honeybunnies.herokuapp.com/) | Second group project at Makers. A clone of Facebook | Ruby, Rails, Rspec, Capybara, Psql |
