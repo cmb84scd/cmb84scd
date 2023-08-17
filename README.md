@@ -1,6 +1,8 @@
 ## Catriona Bennett
 
-After over 16 years in retail, it was time for a change. Having already done some work with HTML (self taught), I used to look after 3 websites and this combined with me being thorough in my work led to a close friend suggesting programming. On taking redundancy, I started teaching myself how to code. Initially with C# but quickly moved to Python, I was really enjoying it and loved seeing the code I’d written working! I attended Makers Academy to further my knowledge and help me get started on my new career path. Originally I thought my preference would be for frontend but as the course went on, I've realised just how much I enjoy doing the logic etc, so now it's backend that I prefer!
+After over 16 years in retail, it was time for a change. Having already done some work with HTML (self taught), I used to look after 3 websites and this combined with me being thorough in my work led to a close friend suggesting programming. On taking redundancy, I started teaching myself how to code. Initially with C# but quickly moved to Python, I was really enjoying it and loved seeing the code I’d written working! I attended Makers Academy to further my knowledge and help me get started on my new career path. Originally I thought my preference would be for frontend but as the course went on, I realised just how much I enjoy doing the logic etc, so now it's backend that I prefer!
+
+I have worked at Dunelm for over 2 years as a Site Reliability Engineer and am looking for a change. It's a very demanding role due to both working on SRE projects and being embedded in an engineering team. I am not enjoying it as much now and have realised that I would like to focus more on the engineering side of things.
 
 <div align="center">
 
@@ -52,10 +54,15 @@ I have used the following tech:
         <li>Ruby</li>
         <li>Python</li>
         <li>JavaScript</li>
+        <li>TypeScript</li>
+        <li>Bash</li>
+        <li>Terraform</li>
         <li>HTML</li>
         <li>CSS</li>
       </td>
       <td>
+        <li>AWS</li>
+        <li>DataDog</li>
         <li>Rails</li>
         <li>Sinatra</li>
         <li>Django</li>
@@ -72,9 +79,9 @@ I have used the following tech:
         <li>Rspec</li>
         <li>Capybara</li>
         <li>Django.test</li>
+        <li>Pytest</li>
         <li>Selenium</li>
         <li>Jasmine</li>
-        <li>Ruby</li>
         <li>Jest</li>
         <li>Cypress</li>
       </td>
@@ -85,29 +92,42 @@ I have used the following tech:
 
 | Repo/Deployed site | Info | Tech |
 | --- | --- | --- |
-| [Shopping Helper - repo](https://github.com/cmb84scd/shopping_helper)<br>[Shopping Helper - deployed](https://shopping-help.herokuapp.com/) | A simple app to help you locate your items when doing your grocery shop. | Ruby, Rails, Rspec, Capybara, Psql |
+| [Shopping Helper - repo](https://github.com/cmb84scd/shopping_helper) | A simple app to help you locate your items when doing your grocery shop. | Ruby, Rails, Rspec, Capybara, Psql |
 | [Simple Asset Tracker](https://github.com/makersacademy/simpleassettracker) | Post course group project with Makers. An app to help Makers track their laptops etc | Python, Django, Django.test, Selenium |
 | [Cuppa Team](https://github.com/cmb84scd/charity-apr2020) | Final group project at Makers and is to help with the organisation of tea parties | MERN, Jest, Cypress |
-| [Acebook-HoneyBunnies](https://acebook-honeybunnies.herokuapp.com/) | Second group project at Makers. A clone of Facebook | Ruby, Rails, Rspec, Capybara, Psql |
+| [Acebook-HoneyBunnies](https://github.com/cmb84scd/acebook-HoneyBunnies) | Second group project at Makers. A clone of Facebook | Ruby, Rails, Rspec, Capybara, Psql |
 | [Mazee](https://github.com/cmb84scd/Mazee) | A maze game I made before starting at Makers | Python, pygame |
 
 ## Experience
 
+**Dunelm (April 2021 - present)**  
+*Site Reliability Engineer*  
+**AWS, DataDog, Python, Typescript, Bash, Terraform, Git**
+- Developed and maintained automated tools to streamline processes, improving efficiency and reducing manual workload.
+- Investigated and resolved incidents and issues promptly, minimizing downtime and ensuring seamless operations.
+- Provided support to cross-functional teams in implementing reliability measures for their services, contributing to enhanced performance and resilience.
+- Assisted new colleagues in setting up their laptops and facilitating smooth integration into the team.
+- Practiced agile methodologies, fostering collaboration and agility in delivering projects.
+
 **Web Developer** (2005 - present)
-As I previously mentioned, I used to look after 3 websites and these belonged to 3 different dance groups. In each case I took them over from someone else, so they were already established and I just had to keep them up to date. 2 of the websites were originally in word and I redid both in HTML, though not at the same time! The third was redone by someone else and I learnt a lot from seeing their code, which helped me improve the ones I was working on. In redoing 2 of the websites I discovered just how much extra stuff Word adds to a document that isn't needed. I'd already stripped a load out of the first site I was redoing, when I saw what had been done on the third one and realised I could take out even more. So I went back to the first one and did just that! The two that I redid were just very basic HTML and CSS, which I learnt as I went along.
+- Managed and maintained websites for multiple dance groups, successfully transitioning 2 Microsoft Word-based websites to HTML and CSS.
+- Demonstrated strong problem-solving skills by effectively stripping out unnecessary elements from the original website design.
+- Collaborated with a colleague on enhancing the third website, gaining valuable insights and expertise in website development processes.
 
 **Dance Teacher** (September 2011 - present)
-- For the first 2 years I would take a Scottish Dance class if the regular teacher was unavailable for any reason. In September 2013 I took over the beginners class and taught it every week that it ran, until December 2018 when the classes merged. While teaching this class, and since then, I occasionally take evenings for other clubs.
-- It should be noted in all cases I am teaching adults and if children are present, their parents/guardians are also present.
+- RSCDS (Royal Scottish Country Dance Society) qualified Scottish Dance Teacher, specializing in instructing adults.
+- Successfully assumed teaching responsibilities for the beginners class from September 2013 until December 2018 when classes merged.
+- Demonstrated versatility by occasionally leading sessions for other dance clubs.
+- Contributed to the growth and development of participants through engaging and effective instructional techniques.
 
 **The Best Connection** (September 2019 to March 2020)    
 *Retail assistant (agency staff)*
 
 **Tesco** (March 2003 to May 2019)   
 *Stock Controller*  
-- Used a Personal Digital Assistant (PDA) to manage stock and I usually ended up being the one fixing them! Usually this just entailed me doing different types of reboots and if these didn't work, then I would report them by phoning the helpdesk so that they could be swapped out. I trained colleagues on how to use the new machines when they were upgraded as well as aiding them to put the company's staff apps on their phones.
-- My job involved counting stock, cubing products, printing missing shelf edge labels, re-merchandising where necessary, mapping and investigating stock levels. So essentially I was trouble shooting internal hardware to manage stock and supporting the use of internal hardware.
-- I was also the team lead and manager when required. When this happened I would be looking after 3-6 staff and delegate work when required.
+- Troubleshooting internal hardware for stock management to ensure accurate inventory tracking, ordering, and replenishment.
+- Demonstrated expertise in using Personal Digital Assistants (PDAs) for efficient stock control operations, including resolving technical issues and providing training to colleagues on PDA usage.
+- Stepped up as a team leader/manager when needed, effectively coordinating tasks and ensuring smooth workflow.
 
 ## Education
 
