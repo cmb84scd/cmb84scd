@@ -102,7 +102,7 @@ I have used the following tech:
 
 **Dunelm (April 2021 - present)**  
 *Site Reliability Engineer*  
-**AWS, DataDog, Python, Typescript, Bash, Terraform, Git**
+**AWS, DataDog, Python, TypeScript, Bash, Terraform, Git**
 - Developed and maintained automated tools to streamline processes, improving efficiency and reducing manual workload.
 - Investigated and resolved incidents and issues promptly, minimizing downtime and ensuring seamless operations.
 - Provided support to cross-functional teams in implementing reliability measures for their services, contributing to enhanced performance and resilience.
