@@ -2,7 +2,7 @@
 
 After over 16 years in retail, it was time for a change. Having already done some work with HTML (self taught), I used to look after 3 websites and this combined with me being thorough in my work led to a close friend suggesting programming. On taking redundancy, I started teaching myself how to code. Initially with C# but quickly moved to Python, I was really enjoying it and loved seeing the code I’d written working! I attended Makers Academy to further my knowledge and help me get started on my new career path. Originally I thought my preference would be for frontend but as the course went on, I realised just how much I enjoy doing the logic etc, so now it's backend that I prefer!
 
-I have worked at Dunelm for over 2 years as a Site Reliability Engineer and am looking for a change. It's a very demanding role due to both working on SRE projects and being embedded in an engineering team. I am not enjoying it as much now and have realised that I would like to focus more on the engineering side of things.
+I worked at Dunelm for over 2 1/2 years as a Site Reliability Engineer (SRE) and am now looking for my next role. SRE was very demanding due to both working on SRE projects and being embedded in an engineering team. Although I enjoyed it, I realised that I wanted to focus on the engineering side of things, so I'm now looking for a Software Engineer/Developer role.
 
 <div align="center">
 
@@ -100,8 +100,8 @@ I have used the following tech:
 
 ## Experience
 
-**Dunelm (April 2021 - present)**  
-*Site Reliability Engineer*  
+**Dunelm (April 2021 - January 2024)**
+*Site Reliability Engineer*
 **AWS, DataDog, Python, TypeScript, Bash, Terraform, Git**
 - Developed and maintained automated tools to streamline processes, improving efficiency and reducing manual workload.
 - Investigated and resolved incidents and issues promptly, minimizing downtime and ensuring seamless operations.
@@ -120,11 +120,11 @@ I have used the following tech:
 - Demonstrated versatility by occasionally leading sessions for other dance clubs.
 - Contributed to the growth and development of participants through engaging and effective instructional techniques.
 
-**The Best Connection** (September 2019 to March 2020)    
+**The Best Connection** (September 2019 to March 2020)
 *Retail assistant (agency staff)*
 
-**Tesco** (March 2003 to May 2019)   
-*Stock Controller*  
+**Tesco** (March 2003 to May 2019)
+*Stock Controller*
 - Troubleshooting internal hardware for stock management to ensure accurate inventory tracking, ordering, and replenishment.
 - Demonstrated expertise in using Personal Digital Assistants (PDAs) for efficient stock control operations, including resolving technical issues and providing training to colleagues on PDA usage.
 - Stepped up as a team leader/manager when needed, effectively coordinating tasks and ensuring smooth workflow.
@@ -152,4 +152,4 @@ BTEC National Diploma in Sports Studies
 
 ## Hobbies
 
-I do Scottish Country Dancing, follow various sports and enjoy continuing to learn programming. I have had some wonderful opportunities through the dancing including participating at the Patron's Lunch! I'm also trying to learn Hungarian.
+I do Scottish Country Dancing, follow various sports and enjoy continuing to learn programming. I have had some wonderful opportunities through the dancing including participating at the Patron's Lunch! I'm also learning Hungarian.
