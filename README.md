@@ -1,12 +1,13 @@
-## Catriona Bennett
+<!-- markdownlint-disable MD033 -->
+# Catriona Bennett
 
-After over 16 years in retail, it was time for a change. Having already done some work with HTML (self taught), I used to look after 3 websites and this combined with me being thorough in my work led to a close friend suggesting programming. On taking redundancy, I started teaching myself how to code. Initially with C# but quickly moved to Python, I was really enjoying it and loved seeing the code I’d written working! I attended Makers Academy to further my knowledge and help me get started on my new career path. Originally I thought my preference would be for frontend but as the course went on, I realised just how much I enjoy doing the logic etc, so now it's backend that I prefer!
+After over 16 years in retail, it was time for a change. Having already done some work with HTML (self taught), I used to look after 3 websites and this combined with me being thorough in my work led to a close friend suggesting programming. In February 2019, I started to teach myself C# but switched to Python 3 months later. This was when I was really started enjoying it and loved seeing the code I’d written working! I attended Makers Academy to further my knowledge and help me get started on my new career path. Originally I thought my preference would be for frontend but as the course went on, I realised just how much I enjoy doing the logic etc, so now it's backend that I prefer!
 
 I worked at Dunelm for over 2 1/2 years as a Site Reliability Engineer (SRE) and am now looking for my next role. SRE was very demanding due to both working on SRE projects and being embedded in an engineering team. Although I enjoyed it, I realised that I wanted to focus on the engineering side of things, so I'm now looking for a Software Engineer/Developer role.
 
 <div align="center">
 
-### Navigate
+### Navigate <!-- markdownlint-disable-line MD001 -->
 
 [![skills](https://img.shields.io/badge/-Skills-blueviolet?style=for-the-badge)](#skills)
 [![tech](https://img.shields.io/badge/-Tech_knowledge-blueviolet?style=for-the-badge)](#tech-knowledge)
@@ -26,19 +27,20 @@ I worked at Dunelm for over 2 1/2 years as a Site Reliability Engineer (SRE) and
 
 ## Skills
 
-#### Organised
+### Organised
 
 Through my time in Stock Control at Tesco and being secretary of two clubs at the same time meant organisation was key for me to get everything done. Working in an organised and methodical manner comes naturally to me!
 
-#### Good team worker
+### Good team worker
 
 Being in Stock Control I worked in a small team but we had to work together as otherwise we wouldn't get everything done! I was my manager's right hand person for several years and quite often if my colleagues had a problem, they would come to me for help rather than my manager! Also, when at Makers and doing our final project, we had just 10 days to make a viable product. Working as team was one of the key elements to achieving this.
 
-#### Adaptable
+### Adaptable
 
 I'm very adaptable and during my time at Tesco, one minute I could be doing my work and the next having to help out on another department. After leaving Tesco, I did temp work and never knew from one week to the next what I'd be doing.
 
 ## Tech knowledge
+
 I have used the following tech:
 <table>
   <thead>
@@ -101,55 +103,55 @@ I have used the following tech:
 ## Experience
 
 **Dunelm (April 2021 - January 2024)**
-*Site Reliability Engineer*
+*Site Reliability Engineer*<br>
 **AWS, DataDog, Python, TypeScript, Bash, Terraform, Git**
-- Developed and maintained automated tools to streamline processes, improving efficiency and reducing manual workload.
-- Investigated and resolved incidents and issues promptly, minimizing downtime and ensuring seamless operations.
-- Provided support to cross-functional teams in implementing reliability measures for their services, contributing to enhanced performance and resilience.
-- Assisted new colleagues in setting up their laptops and facilitating smooth integration into the team.
-- Practiced agile methodologies, fostering collaboration and agility in delivering projects.
 
-**Web Developer** (2005 - present)
-- Managed and maintained websites for multiple dance groups, successfully transitioning 2 Microsoft Word-based websites to HTML and CSS.
-- Demonstrated strong problem-solving skills by effectively stripping out unnecessary elements from the original website design.
-- Collaborated with a colleague on enhancing the third website, gaining valuable insights and expertise in website development processes.
+- Developed and maintained automated tools to streamline processes, improving efficiency and reducing manual workload
+- Added Datadog monitors for AWS stacks, and ensured there was good logging in the stacks
+- Investigated incidents/issues when they happened using Datadog, browsers, release notes and 3rd party status boards minimizing downtime and ensuring seamless operations
+- Provided support to cross-functional teams to help ensure reliability within their services, that failure points in the architecture had been thought about and necessary monitoring, as well as logging, was added
+- Assisted new colleagues to set up their laptops using an installation script and helped them to settle in
+- Practiced agile methodologies, fostering collaboration and agility in delivering projects
 
-**Dance Teacher** (September 2011 - present)
-- RSCDS (Royal Scottish Country Dance Society) qualified Scottish Dance Teacher, specializing in instructing adults.
-- Successfully assumed teaching responsibilities for the beginners class from September 2013 until December 2018 when classes merged.
-- Demonstrated versatility by occasionally leading sessions for other dance clubs.
-- Contributed to the growth and development of participants through engaging and effective instructional techniques.
+**Web Developer (2005 - present)**<br>
+**HTML, CSS**
 
-**The Best Connection** (September 2019 to March 2020)
+- Maintains the website of a dance group on a voluntary basis
+- Writes and edits website content
+- Communicate with stakeholders on an as required basis
+
+**The Best Connection (September 2019 to March 2020)**
 *Retail assistant (agency staff)*
 
-**Tesco** (March 2003 to May 2019)
+- Stacking shelves to working on the tills and anything else that the shops required of me
+
+**Tesco (March 2003 to May 2019)**
 *Stock Controller*
-- Troubleshooting internal hardware for stock management to ensure accurate inventory tracking, ordering, and replenishment.
-- Demonstrated expertise in using Personal Digital Assistants (PDAs) for efficient stock control operations, including resolving technical issues and providing training to colleagues on PDA usage.
-- Stepped up as a team leader/manager when needed, effectively coordinating tasks and ensuring smooth workflow.
+
+- Used a Personal Digital Assistant (PDA) to manage stock and I usually ended up fixing them too
+- I trained colleagues on how to use the new machines when they were upgraded as well as assisting them to put the company’s staff apps on their phones
+- I had to troubleshoot internal hardware to manage stock and supported the use of internal hardware
+- I was also the team lead and manager when required
 
 ## Education
 
-#### Makers Academy (March 2020 to July 2020)
+**Makers Academy (March 2020 to July 2020)**<br>
+Software Engineer:
 
 - OOP, TDD, MVC, DDD
 - Agile/XP
 - Ruby, Sinatra, Rails, JavaScript, MERN
 - RSpec, Capybara, Jasmine, Jest, Cypress
 
-#### Apprenticeship (September 2013 - November 2014)
+**Tesco (City & Guilds) (September 2013 - November 2014)**<br>
+Level 2 Apprenticeship in Retail
 
-Through Tesco (City & Guilds) I gained an Intermediate Level Apprenticeship in Retail (Level 2)
+**Royal Scottish Country Dance Society (September 2007 - June 2011)**<br>
+Certified Teacher
 
-#### Nescot (September 2000 to June 2002)
-
-BTEC National Diploma in Sports Studies
-
-#### Other qualifications
-
-- In 2011 I completed my teaching certificate with the Royal Scottish Country Dance Society
+**Nescot (September 2000 to June 2002)**<br>
+BTEC National Diploma Sports Studies
 
 ## Hobbies
 
-I do Scottish Country Dancing, follow various sports and enjoy continuing to learn programming. I have had some wonderful opportunities through the dancing including participating at the Patron's Lunch! I'm also learning Hungarian.
+I regulary go Scottish Country Dancing and occasionally teach a class. I enjoy learning about anything related to Software Engineering and learning Hungarian.
